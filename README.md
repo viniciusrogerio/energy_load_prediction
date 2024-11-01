@@ -28,9 +28,9 @@ Os seis modelos treinados foram comparados usando as métricas MAE e MAPE. O Mod
 
 ## Conclusão e Trabalhos Futuros
 Este projeto demonstra o potencial das redes LSTM para previsão de carga elétrica em sistemas complexos como o SIN. Futuras melhorias incluem:
-- Aumento de camadas LSTM e número de units por camada
-- Experimentação com GRUs e modelos estatísticos tradicionais
-- Inclusão de novas variáveis, como temperatura e indicadores macroeconômicos, para aumentar a precisão preditiva
+- Aumento de camadas LSTM e número de units por camada.
+- Experimentação com GRUs e modelos estatísticos tradicionais.
+- Inclusão de novas variáveis, como temperatura e indicadores macroeconômicos, para aumentar o desempenho preditivo.
 
 ## Referências
 1. ONS - Operador Nacional do Sistema Elétrico.
