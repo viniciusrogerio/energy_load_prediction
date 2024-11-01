@@ -1,5 +1,7 @@
 # Previsão de Carga Elétrica no Sistema Interligado Nacional (SIN) com Redes LSTM
 
+Para o artigo completo, acesse o arquivo `final_report.pdf`.
+
 ## Visão Geral
 Este projeto implementa um modelo de redes neurais LSTM para prever a carga de energia elétrica no Sistema Interligado Nacional (SIN) do Brasil. A previsão de carga é essencial para otimizar o planejamento energético e garantir eficiência e segurança no sistema elétrico do país.
 
