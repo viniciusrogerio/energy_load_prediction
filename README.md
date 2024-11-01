@@ -15,7 +15,7 @@ A arquitetura LSTM foi escolhida para capturar a natureza sequencial dos dados d
 - **Desempenho**: O melhor modelo (Model4) obteve MAE de 1441 MWmed e MAPE de 1.95%, utilizando `time steps = 60` e `batch size = 32`
 
 ## Resultados
-Os seis modelos treinados foram comparados usando as métricas MAE e MAPE. O Model4 apresentou o melhor desempenho, com uma precisão satisfatória para o contexto de previsão de carga elétrica no SIN.
+Os seis modelos treinados foram comparados usando as métricas MAE e MAPE. O Model4 apresentou o melhor desempenho, com um erro satisfatório para o contexto de previsão de carga elétrica no SIN.
 
 | Modelo   | Time Steps | Batch Size | MAE (MWmed) | MAPE (%) |
 |----------|------------|------------|-------------|----------|
